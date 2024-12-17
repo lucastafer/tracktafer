@@ -1,0 +1,4 @@
+include:
+  - ./golang-microservice/docker-compose.yaml
+  - ./nest-api/docker-compose.yaml
+  - ./next-frontend/docker-compose.yaml
